@@ -1,5 +1,8 @@
 🧩 This repository contains various practice solutions. These problems are collected from multiple sources.  
-These are useful to learn various topics.
+These are useful to learn various topics.  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFDD00)
+![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=notion&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA1884?style=flat-square&logo=jupyter&logoColor=white)
 
 | No. | Title | Topic Links | Difficulty | Solution Links |
 |:----------:|:----------------:|:-------:|:--------:|:-----------------------:|
