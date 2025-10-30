@@ -12,5 +12,8 @@ These are useful to learn various topics.
 
 
 💻 -----Status-----  
-✅ Currently includes: Problem #2423  
+✅ Currently includes:  
+  -🟢 Print alternative & Find the lowest value in an array – Basic | Array  
+  -🟢 Linked list traversal & Find the lowest value in linked list - Basic | Linked List
+  -🟢 Remove duplicates & Check if an array is sorted - Basic | Array
 🕒 Work in progress....
